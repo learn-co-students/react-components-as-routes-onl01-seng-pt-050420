@@ -1,6 +1,17 @@
 # Introduction to React Router
 
+
+
+
+
+
 ## Objectives
+
+
+
+
+
+
 
 1. Describe __React Router's__ approach to client-side routing
 2. Explain how React Router allows building a route tree as a component
